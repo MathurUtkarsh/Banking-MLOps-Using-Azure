@@ -2,7 +2,7 @@
 This repository is created by [Utkarsh Mathur](https://www.linkedin.com/in/iamutkarshmathur/) for hands-on MLOps workshop using [Azure Machine Learning]( https://docs.microsoft.com/en-us/azure/machine-learning/) and [Azure DevOps]( https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops&viewFallbackFrom=vsts). 
 
 
-For any further inquiries or questions, please contact me at mo.ghodrati95@gmail.com .
+For any further inquiries or questions, please contact me at utkarshmathur05@gmail.com .
 
 ![ML Loop](./architecture/ml-loop.PNG)
 
